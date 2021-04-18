@@ -10,6 +10,7 @@ import css from './su-css'
  * 比如在某个页面需要访问utils内isIos函数。写法：su.utils.isIos()，不需要再import了
  */
 global.su = {
+
   // 工具函数集合
   utils,
 

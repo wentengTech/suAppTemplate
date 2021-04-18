@@ -10,7 +10,7 @@ export default function AuLogin({ navigation }) {
     <View style={{ flex: 1, alignItems: 'center', justifyContent: 'center' }}>
       <Text>这是登录页面</Text>
       <Button
-        title="跳转去注册页面"
+        title="跳转去注册页面hello world"
         onPress={() => navigation.navigate('register')}
       />
 
